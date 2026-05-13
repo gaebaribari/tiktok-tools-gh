@@ -1,0 +1,15 @@
+node_modules
+.next
+downloads
+.env
+.env.local
+.env.local.example
+.git
+.gitignore
+.claude
+.vercel
+.DS_Store
+*.log
+*.tsbuildinfo
+README.md
+TIMELINE.md
